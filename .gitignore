@@ -2,9 +2,22 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+config.js
 # C extensions
 *.so
+logicStep5.js
+major_eq_starter_logic.js
+majorAirports.json
+torontoRoutes.json
+Mapping _GeoJson_dark_layer
+Mapping_GeoJSON_Linestrings
+Mapping_GeoJSON_Points
+Mapping_GeoJson_Polygons
+Mapping_lines
+Mapping_Multiple_Points
+Mapping_Single_Points
+Simple_Map
+Earthquakes_past7days
 
 # Distribution / packaging
 .Python

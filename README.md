@@ -1,3 +1,3 @@
 # Mapping_Earthquakes
 
-(Map)[map.png]
+[Map](map.png)
